@@ -1,0 +1,19 @@
+# Authors
+
+romero:
+  name: George Romero
+  web: https://en.wikipedia.org/wiki/George_A._Romero
+  bio: "In other words don't punish me because this was not as good as Dawn."
+  avatar: romero.jpg
+
+zombie1:
+  name: Walker
+  web: http://walkingdead.wikia.com/wiki/Zombies
+  bio: "The English word 'zombie' is first recorded in 1819, in a history of Brazil by the poet Robert Southey, in the form of 'zombi'."
+  avatar: notwalk.png
+
+zombie2:
+  name: Flyboy
+  web: http://www.ign.com/articles/2013/04/19/top-25-best-the-walking-dead-zombies-walkers-biters
+  bio: "As a tip of the hat to Romero, and his iconic zombies, Nicotero designed one of the Season 3, episode 5, 'Say the Word' walkers to look like 'Flyboy' from Dawn of the Dead."
+  avatar: zombie2.png
