@@ -76,10 +76,10 @@ end
     {% raw %}
     <nav class="pagination" role="navigation">
         {% if page.previous %}
-            <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
+            <a href="{{ site.github.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
         {% endif %}
         {% if page.next %}
-            <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
+            <a href="{{ site.github.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
         {% endif %}
     </nav><!-- /.pagination -->
     {% endraw %}
@@ -98,10 +98,10 @@ end
 ~~~ html
 {% raw %}<nav class="pagination" role="navigation">
     {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
+        <a href="{{ site.github.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
     {% endif %}
     {% if page.next %}
-        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
+        <a href="{{ site.github.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
     {% endif %}
 </nav><!-- /.pagination -->{% endraw %}
 ~~~
