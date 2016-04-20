@@ -1,21 +1,19 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
-  image: 400x250.gif
+]- title: article 1
+  url: /article-1/
+  excerpt: "Echo park food truck migas, wolf scenester twee craft beer vegan tousled semiotics bushwick. Sartorial heirloom pabst fashion axe. Pickled offal chicharrones jean shorts taxidermy craft beer, gluten-free forage normcore vegan gentrify thundercats wayfarers mustache. "
+  image: romero.jpg
 
-- title: Sample Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
+- title: article 2
+  url: /article-2/
+  excerpt: "Echo park food truck migas, wolf scenester twee craft beer vegan tousled semiotics bushwick. Sartorial heirloom pabst fashion axe. Pickled offal chicharrones jean shorts taxidermy craft beer, gluten-free forage normcore vegan gentrify thundercats wayfarers mustache. "
+  image: notwalk.png
 
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+- title: article 3
+  url: /article-3/
+  excerpt: "Echo park food truck migas, wolf scenester twee craft beer vegan tousled semiotics bushwick. Sartorial heirloom pabst fashion axe. Pickled offal chicharrones jean shorts taxidermy craft beer, gluten-free forage normcore vegan gentrify thundercats wayfarers mustache. "
+  image: zombie2.png
 
-- title: About
+- title: about
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
-  image: 400x250.gif

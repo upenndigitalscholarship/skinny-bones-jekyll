@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="page-lead" style="background-image:url({{ page.image.banner }})">
+	<div class="wrap page-lead-content">
+    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+	</div>
+</div>
+
+<div id="main" role="main"></div>
+
+<div class="wrap">
+
+	<div class="inner-wrap">
+		{{ content }}
+	</div>
+</div>
