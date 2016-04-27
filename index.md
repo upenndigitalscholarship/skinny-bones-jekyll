@@ -3,7 +3,7 @@ layout: front
 permalink: /
 title:
 image:
-    banner: images/29pony_600.jpg
+    banner: images/zombie_banner2.jpg
 ---
 
 The more the zombie gains notoriety as a cannibalistic anti-human across television, film, and print media, the greater its imprint as an enduring reflection of our human anxieties and fears. This born-digital exhibit offers a thoughtful analysis and creative exploration of zombie media from the perspectives of some of the genre's most avid connoisseurs. The exhibit is the collaborative effort of students in the Spring 2016 linguistics seminar, Languages of Fear, Racism, and Zombies, with instructor, Prof. Jamie A. Thomas at Swarthmore College.
