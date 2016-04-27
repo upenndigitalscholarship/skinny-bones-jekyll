@@ -85,7 +85,17 @@ module.exports = function(grunt) {
         }]
       }
     },
-  });
+  }),
+  browserSync:{
+    bsFiles: {
+      src: '_sass/*.scss'
+    }
+    options: {
+      server: {
+        baseDir: "./"
+      }
+    }
+  };
 
   // Load tasks
   grunt.loadNpmTasks('grunt-contrib-jshint');
@@ -96,6 +106,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-svgmin');
   grunt.loadNpmTasks('grunt-imgcompress');
   grunt.loadNpmTasks('grunt-surround');
+  grunt.loadNpmTasks('grunt-browser-sync');
 
   // Register tasks
   grunt.registerTask('scripts', ['watch', 'uglify']);

@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Fear, Racism & Zombies
-description: "About Zombies"
-logo: bio-photo.jpg
-teaser: bio-photo.jpg
+title: Zombies Reimagined
+description: A Critical Discourse Analysis of Popular Culture
+logo:
+teaser:
 locale: en
 url: http://localhost:4000
 

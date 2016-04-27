@@ -1,20 +1,20 @@
 # Site navigation links
 
-- title: article 1
-  url: /article-1/
-  excerpt: "Echo park food truck migas, wolf scenester twee craft beer vegan tousled semiotics bushwick. Sartorial heirloom pabst fashion axe. Pickled offal chicharrones jean shorts taxidermy craft beer, gluten-free forage normcore vegan gentrify thundercats wayfarers mustache. "
+- title: 1
+  url: /new-women-of-swarthmore/
+  excerpt: "Zombies and the New Women of Swarthmore College"
   image: romero.jpg
-
-- title: article 2
-  url: /article-2/
-  excerpt: "Echo park food truck migas, wolf scenester twee craft beer vegan tousled semiotics bushwick. Sartorial heirloom pabst fashion axe. Pickled offal chicharrones jean shorts taxidermy craft beer, gluten-free forage normcore vegan gentrify thundercats wayfarers mustache. "
+- title: 2
+  url: /changing-conceptions-of-racism/
+  excerpt: "Changing Zombies and Changing Conceptions of Racism"
   image: notwalk.png
 
-- title: article 3
-  url: /article-3/
-  excerpt: "Echo park food truck migas, wolf scenester twee craft beer vegan tousled semiotics bushwick. Sartorial heirloom pabst fashion axe. Pickled offal chicharrones jean shorts taxidermy craft beer, gluten-free forage normcore vegan gentrify thundercats wayfarers mustache. "
+- title: 3
+  url: /destruction-of-social-order/
+  excerpt: "Zombies and the Destruction of Social Order"
   image: zombie2.png
 
-- title: about
-  url: /about/
-
+- title: 4
+  url: /wild-man-to-the-extraterrestrial/
+  excerpt: "From the Wild Man to the Extraterrestrial: Zombies as a Critical Reflection of the Other"
+  image: zombie2.png
