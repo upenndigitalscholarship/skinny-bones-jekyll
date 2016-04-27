@@ -1,0 +1,15 @@
+/* ==========================================================================
+   Custom Styles
+   CSS tweaks for Zombies Reimagined Project
+   Nabil Kashyap
+   Roberto Vargas
+   ========================================================================== */
+
+span.rtl {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+#site-footer p.copyright{
+    font-size: 1.1em;
+}
