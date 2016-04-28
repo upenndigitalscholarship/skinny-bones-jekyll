@@ -1,20 +1,24 @@
 # Site navigation links
 
+- title: about
+  url: /about/
+  excerpt:
+  image: zombie2.png
 - title: 1
-  url: /new-women-of-swarthmore/
-  excerpt: "Zombies and the New Women of Swarthmore College"
-  image: romero.jpg
+  url: /engendering-zombie-fiction/
+  excerpt: "Engendering Zombie Fiction"
+  image: zombie2.png
 - title: 2
-  url: /changing-conceptions-of-racism/
-  excerpt: "Changing Zombies and Changing Conceptions of Racism"
-  image: notwalk.png
+  url: /understanding-of-racism/
+  excerpt: "How Zombies Inform our Understanding of Racism"
+  image: zombie2.png
 
 - title: 3
-  url: /destruction-of-social-order/
-  excerpt: "Zombies and the Destruction of Social Order"
+  url: /modern-day-fear/
+  excerpt: "Zombies, The Other, & the Spread of Modern Day Fear"
   image: zombie2.png
 
 - title: 4
-  url: /wild-man-to-the-extraterrestrial/
-  excerpt: "From the Wild Man to the Extraterrestrial: Zombies as a Critical Reflection of the Other"
+  url: /challenging-normal/
+  excerpt: "Challenging Normal: A Linguistic Exploration of Horror & Sci-Fi"
   image: zombie2.png
