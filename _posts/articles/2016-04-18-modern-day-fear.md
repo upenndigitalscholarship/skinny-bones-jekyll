@@ -4,7 +4,7 @@ layout: article
 author: group3
 image:
     feature:
-    teaser:
+    teaser: trump.jpg
     thumb:
 storymap:
     id: 772f6677de9353fe75919801ec1cb48b

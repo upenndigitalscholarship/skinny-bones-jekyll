@@ -11,7 +11,7 @@ image:
 *Seminar visit to a Philadelphia screening of Pride and Prejudice and Zombies in February 2016. (L to R, back row) Romeo Luevano, Alexander Jin, Shuang Guan, Eojin Choi, Gretchen Trupp, Tiauna Lewis; (L to R, front row) Fanyi Ma, Jamie A. Thomas*
 <hr/>
 
-Fear, Racism, and Zombies, Spring 2016, Swarthmore College:
+*Languages of Fear, Racism, and Zombies*, Spring 2016, Swarthmore College:
 
 - Eojin Choi
 - Alexander Jin

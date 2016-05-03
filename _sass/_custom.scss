@@ -18,3 +18,28 @@ span.rtl {
     color: $red;
 }
 
+.footnotes ol {
+    list-style: $red;
+}
+
+a.footnote {
+
+    color: $red;
+    font-size: 1.3em;
+}
+
+.sliding-menu-content li{
+  height: 150px;
+}
+
+.sliding-menu-content li img.teaser{
+  height: 100%;
+}
+
+article.tile {
+  border-bottom: 1px solid $black;
+}
+
+.home p {
+  font-size: 1.5em;
+}

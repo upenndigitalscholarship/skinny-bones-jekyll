@@ -4,7 +4,7 @@ layout: article
 author: group4
 image:
     feature:
-    teaser:
+    teaser: White-Zombie-poster-3.jpg
     thumb:
 storymap:
     id:

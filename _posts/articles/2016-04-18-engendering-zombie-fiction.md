@@ -4,7 +4,7 @@ layout: article
 author: group1
 image:
     feature:
-    teaser:
+    teaser: helen-magill-white-1.jpg
     thumb:
 storymap:
     id:

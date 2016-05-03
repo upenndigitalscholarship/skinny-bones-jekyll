@@ -2,9 +2,10 @@
 title: How Zombies Inform our Understanding of Racism
 layout: article
 author: group2
+modified: 2016-04-29
 image:
     feature:
-    teaser:
+    teaser: Zombie_haiti.png
     thumb:
 storymap:
     id: f6f8cf8ab31e9c13b2c05935dda85c7d
@@ -27,8 +28,8 @@ To illustrate, the popular television series, _The Walking Dead_, was released i
 
 Zombie narratives have been argued to be reflections of various anxieties white America had and has for black people, immigrants, autonomous women, and others, seeing as how zombies themselves are “empty vessels” which can take on any of these roles and anxieties.[^5]  We argue that cross-examination of zombie stories from the 1930s to the 1950s and the 2000s to now shows that zombie stories tell us a great deal about how we understood racism then and now. The power play between zombies and humans is eerily similar to that between minorities and whites in the US. The structural racism understanding we have now is perhaps a little daunting, but if we have learned anything from these zombie stories, it is that little victories are meaningful.
 
-[^1]:  “_White Zombie_.” IMDb. Accessed April 26, 2016\. [http://www.imdb.com/title/tt0023694/?ref_=fn_al_tt_1](http://www.imdb.com/title/tt0023694/?ref_=fn_al_tt_1). 
-[^2]:  Skloot, Rebecca. _The Immortal Life of Henrietta Lacks_. New York: Crown Publishers, 2010\. 
-[^3]: “_The Walking Dead_.” IMDb. Accessed April 26, 2016\. [http://www.imdb.com/title/tt1520211/](http://www.imdb.com/title/tt1520211/). 
+[^1]:  “_White Zombie_.” IMDb. Accessed April 26, 2016. [http://www.imdb.com/title/tt0023694](http://www.imdb.com/title/tt0023694). 
+[^2]:  Skloot, Rebecca. _The Immortal Life of Henrietta Lacks_. New York: Crown Publishers, 2010. 
+[^3]: “_The Walking Dead_.” IMDb. Accessed April 26, 2016. [http://www.imdb.com/title/tt1520211](http://www.imdb.com/title/tt1520211/). 
 [^4]: Ibid. 
-[^5]:  Kordas, Ann, “New South, New Immigrants, New Women, New Zombies: The Historical Development of the Zombie in American Popular Culture,” in _Race, Oppression and the Zombie: Essays on Cross-Cultural Appropriations of the Caribbean Tradition_ (Jefferson: McFarland & Company, 2011), pg. #30.
+[^5]:  Kordas, Ann, “New South, New Immigrants, New Women, New Zombies: The Historical Development of the Zombie in American Popular Culture,” in _Race, Oppression and the Zombie: Essays on Cross-Cultural Appropriations of the Caribbean Tradition_ (Jefferson: McFarland & Company, 2011), pg. 30.
