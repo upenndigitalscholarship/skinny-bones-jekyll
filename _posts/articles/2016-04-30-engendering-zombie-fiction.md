@@ -2,6 +2,7 @@
 title: Engendering Zombie Fiction
 layout: article
 author: group1
+modified: 2016-04-30
 image:
     feature:
     teaser: helen-magill-white-1.jpg

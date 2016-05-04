@@ -2,6 +2,7 @@
 title: Zombies, The Other, & the Spread of Modern Day Fear
 layout: article
 author: group3
+modified: 2016-04-28
 image:
     feature:
     teaser: trump.jpg

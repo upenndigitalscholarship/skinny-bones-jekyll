@@ -2,6 +2,7 @@
 title: "Challenging Normal: A Linguistic Exploration of Horror & Sci-Fi"
 layout: article
 author: group4
+modified: 2016-04-27
 image:
     feature:
     teaser: White-Zombie-poster-3.jpg
