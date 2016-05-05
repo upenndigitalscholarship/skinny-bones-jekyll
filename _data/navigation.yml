@@ -5,20 +5,24 @@
   excerpt:
   image:
 - title: 1
+  author: group1
   url: /engendering-zombie-fiction/
   excerpt: "Engendering Zombie Fiction"
   image: helen-magill-white-1.jpg
 - title: 2
+  author: group2
   url: /understanding-of-racism/
   excerpt: "How Zombies Inform our Understanding of Racism"
   image: Zombie_haiti.png
 
 - title: 3
+  author: group3
   url: /modern-day-fear/
   excerpt: "Zombies, The Other, & the Spread of Modern Day Fear"
   image: trump.jpg
 
 - title: 4
+  author: group4
   url: /challenging-normal/
   excerpt: "Challenging Normal: A Linguistic Exploration of Horror & Sci-Fi"
   image: White-Zombie-poster-3.jpg
