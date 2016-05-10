@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Zombies Reimagined
+title: "[ Zombies Reimagined ]"
 description: A Critical Discourse Analysis of Popular Culture
 logo:
 teaser:
 locale: en
-url: http://digitalscholarship.swarthmore.edu/zombies-reimagined
+url: http://localhost:4000
 
 # Jekyll configuration
 

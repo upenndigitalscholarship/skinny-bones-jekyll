@@ -36,6 +36,19 @@ a.footnote {
   height: 100%;
 }
 
+.sliding-menu-content .menu-item li a .excerpt-authors{
+  margin-top: 0;
+      margin-left: 60px;
+      @include font-size(14,no);
+      @include media($small) {
+        margin-left: 170px;
+        font-size: 0.8em;
+      }
+}
+
+.title .post-teaser a:link {
+  text-decoration: none;
+}
  /* article.tile {
  border-bottom: 1px solid $black;
 } */
