@@ -14,6 +14,16 @@
   url: /article-3/
   excerpt: "Echo park food truck migas, wolf scenester twee craft beer vegan tousled semiotics bushwick. Sartorial heirloom pabst fashion axe. Pickled offal chicharrones jean shorts taxidermy craft beer, gluten-free forage normcore vegan gentrify thundercats wayfarers mustache. "
   image: zombie2.png
+  
+- title: article 5
+  url: /article-5/
+  excerpt: "added test"
+  image: zombie2.png
+  
+- title: test
+  url: /test/
+  excerpt: "added another test article"
+  image: zombie2.png
 
 - title: about
   url: /about/
