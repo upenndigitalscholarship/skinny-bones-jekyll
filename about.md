@@ -11,7 +11,35 @@ image:
 *Seminar visit to a Philadelphia screening of Pride and Prejudice and Zombies in February 2016. (L to R, back row) Romeo Luevano, Alexander Jin, Shuang Guan, Eojin Choi, Gretchen Trupp, Tiauna Lewis; (L to R, front row) Fanyi Ma, Jamie A. Thomas*
 <hr/>
 
+##**More on this Exhibit**##
 
+Zombies Reimagined is the brainchild of Languages of Fear, Racism, and Zombies, a linguistics seminar led by Prof. [Jamie A. Thomas](http://www.jamieathomas.com/) at Swarthmore College. The Fall 2016 seminar was conceived in response to the growing popularity of zombie media, and the lacunae of language- and discourse-specific analyses of the genre. 
+
+As the final collaborative project for the seminar course, this online exhibit offers our humanistic spin on why the ambulatory undead are of critical importance. We also intend this digital humanities project to encourage others to productively view the zombie through the intersecting lenses of race, gender, sexuality, and politics. In this way, we invite you to join us and others in the field of zombie studies in (re)imagining the symbolic and material import of the zombie.
+
+
+###**About the Seminar: From Uncivilized Wild Men to the Undead of Today**###
+
+If you're familiar with the television series The Walking Dead or movies Dawn of the Dead and Shaun of the Dead, you're used to seeing the zombie portrayed as an outlier to 'civilization' and a harbinger of disorder, chaos, and anti-humanity. But where do these ideas come from? How are these ideas communicated and to what end? How do we define 'human'?
+
+We began the course with an examination of the Wild Man, a European Renaissance concept of the uncivilized being, to uncover how Western discourses of difference continue to pervade our reality...and even reality TV. Whereas the Wild Man of the 14th through mid-17th centuries was an unkempt beast thought to live in the forest with no capacity for learning or language, today's wild men are also portrayed in the outdoors. These are the Bear Grylls and Swamp People of reality TV who desire an escape from the busy demands and decorum of an urban lifestyle. But do they count as uncivilized?
+
+In our seminar, we took the time to examine the popular television series Man vs. Wild, and ways in which our notions of 'uncivilized' and 'primitive' have shifted, along with our historical understanding of what counts as human. We came to the realization that the ability to name a person or group as 'uncivilized' fundamentally derives from an empowered position. To pay particular attention to power relations manifest in visual and discursive texts on civilization, humanity, and zombies, we took up Critical Discourse Analysis, a key method in use my linguists and others. 
+
+Accordingly, our seminar took note of the ways Western tradition has used discursive means to justify its civilizing mission and exploitation of nations and cultures around the world. This is particularly the case with colonial linguistics, a key phase in the development of linguistics as a field of study in the 18th and 19th centuries. Concurrent with Hegelian philosophy, the development of anthropology, and the advent of Darwin's new ideas on evolution, it was during this time when European scholars used biblical and racialized philosophies to explain their flawed characterization and analyses of non-European languages across Africa, Asia, and the Americas. We see evidence of this in Conrad's novel Heart of Darkness (1899).
+
+It is also around this time of colonial linguistics--the early 19th century--that the film Pride and Prejudice and Zombies is set. As part of our course, we attended a screening of this 2016 film (see picture above). Afterwards, we put together our own language-focused movie reviews [here](http://www.jamieathomas.com/blog/category/zombies). In our critiques, we take notice of the way the film's opening sequence casually describes the zombie contagion as 'coming from the colonies.' It is clear that the film's creators are intentionally linking the zombie to the Othering of non-Europeans of the Global South as diseased and undesirable, as was common (however mistaken) throughout the colonial period. However, for today's audiences this link is helping to newly imagine the undead not only as a scourge of death and destruction, but also a racialized threat. Above all, it is the almost normal and reasonable way this sounds in the film that is the most problematic. Some 200 years ago, the normalized nature of radicalized rhetoric was used to justify phrenology as a legitimate science connecting brain size with supposed mental and behavioral traits. We visited the Samuel G. Morton Cranial Collection at the Penn Museum to learn about how discourses of phrenology and scientific racism are also an indelible aspect of Philadelphia's local history. 
+
+As the course continued, we explored the zombie concept further, especially in its beginnings in Haitian culture and link to experiences of colonialism and enslavement. Through a viewing and analysis of X-Files episode 'Fresh Bones' (1995), we learned how the Haitian zonbi captures key elements of African culture(s) and orientations to death, life, and the afterlife that greatly contrast with U.S. and Christian ontologies. 
+
+Examining the Western zombie as yet another script of control on the body, and consequentially, language, we finally reviewed the life story of Henrietta Lacks, and her immortal HeLa cells that were taken from her body without her consent in a 1940s segregated U.S. hospital. In many ways, the experience of Henrietta Lacks parallels our greatest fears, when it comes to dystopic imaginings of our collective future. What truly scares us about the zombie is its utter loss of humanity, characterized by an inability to speak, think, feel, or resist cannibalizing our own family and friends. Even as Henrietta Lacks and her family have experienced a dehumanizing erasure of their bodily autonomy and voice, her HeLa cells live on, unable to be stopped or reclaimed by her progeny. 
+
+As a result of this course, we now understand the zombie to be wrapped up in notions of Otherness, primitivity, isolation, and enslavement, all of which relate to the daily experiences of marginalized peoples in the U.S. and beyond. Together, we view the zombie as a gateway to exploring ideologies of control as they relate to language use and the body, legacies of colonial linguistics, and our ongoing imaginings of the future roles religion, medicine, and science in shaping our lives. 
+
+
+Please contact <span class="rtl">ude.eromhtraws&#64;6samohtj</span> for more information about this online exhibit.
+
+<hr/>
 
 *Languages of Fear, Racism, and Zombies*, Spring 2016, Swarthmore College:
 
