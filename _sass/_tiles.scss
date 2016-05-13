@@ -34,7 +34,7 @@
       left: 0;
       background: rgba($base-color,0);
       pointer-events: none;
-      @include transition(background 0.3s);
+      @include transition(background 0.2s);
     }
     &:hover {
       &:after {
