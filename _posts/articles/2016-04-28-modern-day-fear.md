@@ -59,12 +59,11 @@ Importantly, the New Woman actively asserts agency over her body and decision-ma
 The American zombie is a symbol that parallels the interfering social change brought by groups within and moving into the U.S. The historical appropriation of the Haitian *zonbi* provides an example of how American society has transformed as a result of the influence of new populations on key dimensions of our popular culture. Within new viral imaginings of zombie outbreaks, immigrant Others are feared as a threatening and pollutive element. This strikes fear within mainstream American society that then develops into politicized paranoia. However, the spread of this unfounded fear can be combatted. The New Woman is able to counter gendered power structures by transcending these barriers set against her, to accomplish things previously thought to be only within the reach of men. Religion, race, and gender remain empowered constructions through which our societal hierarchy is perpetuated. 
 
 
-[^1]: Kordas, Ann. "New South, New Immigrants, New Women, New Zombies: The Historical Development of the Zombie in American Popular Culture." *Race, Oppression and the Zombie: Essays on Cross-cultural Appropriations of the Caribbean Tradition.*By Christopher M. Moreman. Jefferson, NC: McFarland, 2011. N. pag. Print.
+[^1]: Kordas, Ann. "New South, New Immigrants, New Women, New Zombies: The Historical Development of the Zombie in American Popular Culture." Ed. Christopher M. Moreman. *Race, Oppression and the Zombie: Essays on Cross-cultural Appropriations of the Caribbean Tradition.* Jefferson, NC: McFarland, 2011. Print.
 
 [^2]: Hurbon, Laënnec. "Vodou: A Faith for Individual, Family, and Community." *Callaloo* 15.3 (1992): 787-96. *JSTOR [JSTOR].* Web. 27 Apr. 2016.
 
 [^3]: McAlister, Elizabeth. "Slaves, Cannibals, and Infected Hyper-Whites: The Race and Religion of Zombies." *Anthropological Quarterly* 85.2 (2012): 457-86. Web.
-
 
 [^4]: Murphy, Ryan, and Brad Falchuk, prods. "American Horror Story: Coven." *American Horror Story.* FX. New Orleans, Louisiana, 9 Oct. 2013. Television.
 
