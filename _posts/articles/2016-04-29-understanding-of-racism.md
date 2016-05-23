@@ -66,8 +66,8 @@ To analogize, we now largely understand racism as the tool of worldwide systems 
 
 Existing literature on zombie narratives argues that they are reflections of various anxieties White America has and continues to harbor toward not only African Americans, but also immigrants, autonomous women, and others. As empty vessels, zombies are themselves a *tabula rasa*, and (super)natural analogs of these racialized anxieties within a fictive storyworld.[^5]  In our analysis, we argue that cross-examination of zombie stories from the 1930s to the 1950s, and the 2000s to today, shows that zombie stories correlate with shifts in our mainstream and popular understandings of racism then and now. The power play between zombies and humans is eerily similar to that between marginalized peoples and Whites in the U.S. If we have learned anything from these zombie stories, it is that each and every small victory against evil is meaningful.
 
-[^1]:  “_White Zombie_.” IMDb. Accessed April 26, 2016\. [http://www.imdb.com/title/tt0023694/?ref_=fn_al_tt_1](http://www.imdb.com/title/tt0023694/?ref_=fn_al_tt_1). 
-[^2]:  Skloot, Rebecca. _The Immortal Life of Henrietta Lacks_. New York: Crown Publishers, 2010\. 
-[^3]: “_The Walking Dead_.” IMDb. Accessed April 26, 2016\. [http://www.imdb.com/title/tt1520211/](http://www.imdb.com/title/tt1520211/). 
+[^1]:  [“_White Zombie_.” IMDb. Accessed April 26, 2016.](http://www.imdb.com/title/tt0023694/?ref_=fn_al_tt_1) 
+[^2]:  Skloot, Rebecca. _The Immortal Life of Henrietta Lacks_. New York: Crown Publishers, 2010 
+[^3]: [“_The Walking Dead_.” IMDb. Accessed April 26, 2016.](http://www.imdb.com/title/tt1520211/) 
 [^4]: Ibid. 
 [^5]:  Kordas, Ann, “New South, New Immigrants, New Women, New Zombies: The Historical Development of the Zombie in American Popular Culture,” in _Race, Oppression and the Zombie: Essays on Cross-Cultural Appropriations of the Caribbean Tradition_ (Jefferson: McFarland & Company, 2011), pg. #30.

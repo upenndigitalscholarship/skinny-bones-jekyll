@@ -48,9 +48,9 @@ It is clear that, at least here in the U.S., we continue to live in a society th
 [^2]: Kordas, Ann. "New South, New Immigrants, New Women, New Zombies: The Historical Development of the Zombie in American Popular Culture." In*Race, Oppression and the Zombie: Essays on Cross-cultural Appropriations of the Caribbean Tradition*, edited by Christopher M. Moreman and Cory Rushton. Jefferson, NC: McFarland, 2011.
 [^3]: *White Zombie*. Directed by Victor Hugo Halperin. Produced by Edward Halperin. Performed by Béla Lugosi and Madge Bellamy. United Artists Corp., 1932.
 [^4]: Yard, Molly. “Getting Out the Vote” in *The Meaning of Swarthmore*, edited by Roger Youman. Swarthmore: Swarthmore College, 2004. 
-[^5]: Swarthmore Historical Society Archives. Accessed March 27, 2016. http://www.swarthmore.edu/friends-historical-library/swarthmore-historical-society-archives
+[^5]: [Swarthmore Historical Society Archives. Accessed March 27, 2016.](http://www.swarthmore.edu/friends-historical-library/swarthmore-historical-society-archives)
 [^6]: *Night of the Living Dead*. Directed by George A. Romero. By George A. Romero, George A. Romero, and John Russo. Performed by Duane Jones, Judith O'Dea, Marilyn Eastman, and Karl Hardman. United States: Continental Distributing, Inc., 1968.
 [^7]: Alpert, Robert. "George Romero’s Night of the Living Dead and Diary of the Dead: Recording History." *CineAction*, no. 95 (Winter 2015): 16-25.
-[^8]: Webber, Elizabeth. “How Co-ed Housing Came to Swarthmore.” April 19, 1996 edition of the Swarthmore Phoenix. Accessed March 27, 2016. https://www.sccs.swarthmore.edu/users/98/elizw/Swat.history/coed.housing.html
+[^8]: [Webber, Elizabeth. “How Co-ed Housing Came to Swarthmore.” April 19, 1996 edition of the Swarthmore Phoenix. Accessed March 27, 2016.](https://www.sccs.swarthmore.edu/users/98/elizw/Swat.history/coed.housing.html)
 [^9]: *Pride and Prejudice and Zombies*. Directed by Burr Steers. Performed by Lily James and Sam Riley. Lionsgate, 2016. Film.
 [^10]: *iZombie*. Produced by Rob Thomas and Diane Ruggiero-Wright. Performed by Rose McIver. Netflix.
